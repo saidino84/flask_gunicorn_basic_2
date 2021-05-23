@@ -1,4 +1,5 @@
 
+just install flask
 
 to run with python use:
 python3 main.py
